@@ -16,10 +16,6 @@ PayFast is a robust mobile banking application designed to deliver a seamless an
 - **Backend Services:** Firebase
 - **Development Environment:** Android Studio
 
-## Getting Started
-
-To get started with PayFast, you will need to set up your development environment and install the necessary dependencies.
-
 ### Prerequisites
 
 - Android Studio 2020.3.1 or later
